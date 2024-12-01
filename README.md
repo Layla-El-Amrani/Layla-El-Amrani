@@ -5,7 +5,7 @@ Je suis un développeur **Full Stack** passionné par la création de sites web 
 ## Compétences
 
 ### Frontend :
-- 💻 **Technologies :** React, HTML, CSS, JavaScript, Figma
+- 💻 **Technologies :** React, HTML, CSS, JavaScript, Figma,python
 - 📱 **Frameworks/Bibliothèques :** React, Bootstrap, Django,Flask
 - 🧑‍🎨 **UI/UX Design :** Création d'interfaces intuitives et esthétiques, design responsive
 
